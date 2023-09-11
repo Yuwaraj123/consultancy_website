@@ -34,7 +34,7 @@
  <!-- about us -->
  <section class="my-5">
      <div class="py-5">
-         <h2 class="text-center">About Us</h2>
+         <h2 class="text-center">About Consultancy</h2>
      </div>
      <div class="container-fluid">
          <div class="row">
