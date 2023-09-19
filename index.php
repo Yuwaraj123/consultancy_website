@@ -13,12 +13,27 @@
      <div class="carousel-inner">
          <div class="carousel-item active">
              <img src="images/background.webp" width="1100" height="500">
+             <div class="carousel-caption">
+                 <h5>Dream Connect</h5>
+                 <p>Welcomem and Join Us...</p>
+                 <a href="contact.php" class="btn btn-success">Contact Us</a>
+             </div>
          </div>
          <div class="carousel-item">
              <img src="images/canada.jpg" width="1100" height="500">
+             <div class="carousel-caption">
+                 <h5>Dream Connect</h5>
+                 <p>Welcomem and Join Us...</p>
+                 <a href="contact.php" class="btn btn-success">Contact Us</a>
+             </div>
          </div>
          <div class="carousel-item">
              <img src="images/new zealand.jpg" width="1100" height="500">
+             <div class="carousel-caption">
+                 <h5>Dream Connect</h5>
+                 <p>Welcomem and Join Us...</p>
+                 <a href="contact.php" class="btn btn-success">Contact Us</a>
+             </div>
          </div>
      </div>
 
@@ -112,6 +127,7 @@
      </div>
  </section>
 
+ <!-- get in touch -->
  <section class="text-center card text-bg-black" id="contact-link">
      <img src="images/background.webp" width="600" height="400" class="card-img" alt="...">
      <div class="card-img-overlay my-5">
@@ -120,7 +136,5 @@
          <a href="contact.php" class="btn btn-success">Contact Us</a>
      </div>
  </section>
-
-
-
+ 
  <?php include 'footer.php'; ?>

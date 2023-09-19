@@ -1,5 +1,8 @@
 <?php include 'header.php'; ?>
 <img src="images/usa.jpg" width="100%" height="90%">
+<div class="carousel-caption">
+    <h1>Contact Us</h1>
+</div>
 
 <!-- contact us -->
 <div class="contactus">

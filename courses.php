@@ -1,12 +1,8 @@
 <?php include 'header.php'; ?>
-
-<section class="text-center card text-bg-black" id="contact-link">
-    <img src="images/background.webp" width="100%" height="70%">
-    <div class="card-img-overlay">
-        <h2 class="text-center">Our Courses</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing aut consequatur nam officia labore reprehenderit, facere accusamus repellendus alias. Eveniet, nulla amet <br>vero numquam harum corrupti reprehenderit, cumque modi deleniti, non sint saepe dignissimos odio repellendus.</p>
-    </div>
-</section>
+<img src="images/usa.jpg" width="100%" height="90%">
+<div class="carousel-caption">
+    <h1>Our Course</h1>
+</div>
 
 <section class="my-5">
     <div class="py-5">
